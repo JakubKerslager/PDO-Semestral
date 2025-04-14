@@ -5,10 +5,9 @@
 
 ## Body dokumentace
 - Zásady bezpečnosti manipulace se zbraní
-- Popis funkčnosti zbraně a její částí
-- Návod obsluhy zbraně
+- Popis zbraně a její částí
 - Rozborka zbraně
-- Sborka zbraně
+- Sborka zbraně 
 - Postup čištění a promazání zbraně
 
  
