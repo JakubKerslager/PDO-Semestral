@@ -36,3 +36,9 @@ Po důkladném vyčištění všech částí můžete začít se sestavováním 
 3. **Sestavte závěr zpět na rám** a zajistěte jeho správné umístění.
 4. **Několikrát zatáhněte a pusťte závěr pro kontrolu funkčnosti zbraně**
 
+
+---
+
+[Předchozí stránka](02function.md) |  [Další strnka](04cleaning.md)
+
+[Obsah](README.md)

@@ -63,3 +63,9 @@ Každá z těchto částí spolupracuje při střelbě, aby zajistila hladký a 
 3. **Vyhození nábojnice**: Po výstřelu závěr vytáhne vyhozenou nábojnici z hlavně a připraví prostor pro nový náboj.
 4. **Opakování cyklu**: Proces se opakuje, dokud není zásobník vyprázdněn.
 
+
+---
+
+[Předchozí stránka](01safety.md) |  [Další strnka](03disassembly.md)
+
+[Obsah](README.md)

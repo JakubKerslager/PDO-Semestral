@@ -56,3 +56,9 @@ Po vyčištění a promazání zbraň složte a zkontrolujte její funkčnost dv
 
 Pravidelné čištění a promazání zbraně AREX Delta M Gen2 je nezbytné pro její dlouhou životnost a spolehlivý výkon. Ujistěte se, že všechny části jsou pečlivě očištěny a promazány, a zbraň bude vždy připravena k použití. Nezapomeňte na důkladnou kontrolu při každém čištění, abyste zajistili, že všechny komponenty jsou v dobrém stavu a funkční.
 
+
+---
+
+[Předchozí stránka](README.md) |  [Další strnka](02function.md)
+
+[Obsah](README.md)

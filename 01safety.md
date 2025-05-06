@@ -29,3 +29,9 @@ Zbraň by měla být vždy uzamčena a bezpečně uložena, pokud s ní nepracuj
 
 ## 8. Zbraň by měla být vždy v dobrém technickém stavu
 Pravidelně provádějte údržbu zbraně, včetně čištění, kontroly a promazání. Pokud máte podezření na jakýkoli problém, například zaseknutí, nebo pokud zbraň nefunguje správně, neprodleně ji přestaňte používat a nechte ji zkontrolovat odborníkem.
+
+---
+
+[Předchozí stránka](README.md) |  [Další strnka](02function.md)
+
+[Obsah](README.md)
