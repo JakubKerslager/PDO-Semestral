@@ -30,7 +30,7 @@ Před zahájením rozborky zbraně je nutné zajistit, že je zbraň bezpečná.
 1. **Vyjmutí hlavně**: Po odstranění pružiny a závěrového mechanismu je možné vyjmout hlaveň. Uchopte hlaveň pevně a opatrně ji vytáhněte z rámu.
 2. **Kontrola hlavně**: Po vyjmutí hlavně je vhodné ji zkontrolovat na přítomnost nečistot nebo opotřebení. Pokud jsou na hlavni zbytky prášku nebo oleje, je potřeba je odstranit.
 
-## Krok 6: Sestavení zbraně
+## Krok 4: Sestavení zbraně
 
 Sestavení probíhá v opačném pořadí než demontáž:
 
