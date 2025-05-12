@@ -16,11 +16,14 @@ Před zahájením rozborky zbraně je nutné zajistit, že je zbraň bezpečná.
 2. **Stiskněte vypouštěcí tlačítko zásobníku**: Vyjměte zásobník a ujistěte se, že zbraň nemá žádné náboje.
 3. **Uvolněte závěr**: Závěr se uvolňuje pomocí páčky, která je umístěna na straně zbraně. Tato páčka umožňuje uvolnit závěr a zcela ho oddělit od rámu.
 
+![Obrázek 3 - Rozborka](img/03Disassembly.jpg)
+
 ## Krok 2: Demontáž závěru
 
-1. **Vyjmutí závěrového mechanismu**: Po uvolnění závěru je třeba jej jemně vytáhnout z rámu. Ujistěte se, že nepoškodíte žádnou součást.
-2. **Odstranění pružiny závěru**: Opatrně vyjměte pružinu, která je umístěna pod závěrem. Pružina slouží k vyrovnání zpětného rázu po výstřelu.
-3. **Odstranění nástavce pro závěr**: Tento komponent zajišťuje správnou funkci pružiny proti zpětnému rázu. Vyjměte jej opatrně.
+1. **Vyjmutí závěrového mechanismu**: Posuňte a držte závěr 3-5mm vzad a poté posuňtě páčku pro uvolnění závěru dolů. Následně celý závěr posuňte dopředu a nahoru.
+2. **Odstranění pružiny závěru**: Pružinu s nástavcem stlačte o pár mm a vyklopte ze závěru
+
+![Obrázek 4 - Uvolnění pružiny](img/04Disassembly.jpg)
 
 ## Krok 3: Demontáž hlavně
 
@@ -29,11 +32,11 @@ Před zahájením rozborky zbraně je nutné zajistit, že je zbraň bezpečná.
 
 ## Krok 6: Sestavení zbraně
 
-Po důkladném vyčištění všech částí můžete začít se sestavováním zbraně. Tento proces probíhá v opačném pořadí než demontáž:
+Sestavení probíhá v opačném pořadí než demontáž:
 
 1. **Vložení hlavně zpět do závěru**.
 2. **Nasaďte pružinu proti zpětnému rázu**.
-3. **Sestavte závěr zpět na rám** a zajistěte jeho správné umístění.
+3. **Sestavte závěr zpět na rám**
 4. **Několikrát zatáhněte a pusťte závěr pro kontrolu funkčnosti zbraně**
 
 

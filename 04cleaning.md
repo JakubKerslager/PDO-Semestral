@@ -38,7 +38,11 @@ Závěr a rám zbraně jsou vystaveny velkému zatížení při každém výstř
 
 3. **Použití čisticího prostředku**: Pokud jsou na závěru nebo rámu silné usazeniny karbonu nebo jiných nečistot, použijte čisticí prostředek na zbraně, který je šetrný k povrchům. Naneste ho na hadřík a jemně otřete všechny znečištěné části.
 
-4. **Ošetření olejem**: Naneste malé množství oleje na pohyblivé části závěru a rámu, aby byl zajištěn hladký pohyb. Důležité je přebytečný olej otřít, aby neznečišťoval povrch a neatrakoval prach.
+4. **Ošetření olejem**: Naneste malé množství oleje na pohyblivé části závěru a rámu (na obrázku vyznačené červeně), aby byl zajištěn hladký pohyb. Důležité je přebytečný olej otřít, aby neznečišťoval povrch a neatrakoval prach.
+
+![Obrázek 5 - Vyznačené časti](img/05Oil.jpg)
+
+![Obrázek 6 - vyznačené částií](img/06Oil.jpg)
 
 ## Krok 3: Kontrola a finální ošetření
 

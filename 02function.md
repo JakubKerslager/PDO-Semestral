@@ -1,4 +1,4 @@
-# Popis funkčnosti zbraně a její částí
+# Popis zbraně a její částí
 
 AREX Delta M Gen2 je moderní poloautomatická pistole navržená pro osobní ochranu, sportovní střelbu a vojenské použití. Tato pistole je známá svou vysokou spolehlivostí, přesností a ergonomickým designem, který poskytuje komfort při použití. V této kapitole si popíšeme jednotlivé části zbraně, jejich funkčnost a roli, kterou hrají při střelbě.
 
@@ -52,7 +52,16 @@ Hledí je součástí zaměřovacího mechanismu pistole. U AREX Delta M Gen2 je
 
 - **Funkce**: Umožňuje zaměření na cíl.
 
+### 9. **Bezpečnostní prvky (Safety Features)**
+Zbraň je vybavena mnoha bezpečnostními prvky. Mezi těmito prvky najdeme 3DS (Triple Drop Safety System), SDA (Striker Double Action trigger), rozborková pojistka (pojistka zajišťující při rozborce bezpečné spuštění úderníku bez nechtěného výstřelu) a indikátor nataženého bicího mechanismu a náboje v komoře.
+
+- **Funkce**: Tyto prvky zajišťují větší bezpečnost zbraně při manipulaci
 ---
+
+![Obrázek 1 - Ukázka částí](img/01TopNumbers.jpg)
+
+![Obrázek 2 - Ukázka částí](img/02Disassambled.jpg)
+
 
 ## Funkčnost jednotlivých částí při střelbě
 
